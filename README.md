@@ -1,6 +1,15 @@
-<h1 align="center">Hi 👋, I'm Yarin,</h1>
-<h3 align="center">A passionate Fullstack developer from Israel 🇮🇱🇮🇱</h3>
+<h1>Hey 👋 there! I'm Yarin,</h1>
+<h3>A passionate Fullstack developer from Israel 🇮🇱🇮🇱</h3>
+<p>
+A dedicated Full Stack Developer and Lecturer proficient in
+React, Express, MongoDB, and Node.js.
+I specialize in the MERN stack, creating efficient, scalable web applications.
 
+Driven by a deep sense of commitment, I approach my work with utmost seriousness. Task-oriented and independent, I deliver tasks to perfection, on time, without excuses. I embrace challenges, taking the initiative to overcome them and continuously expand my knowledge.
+
+Beyond coding, I value fostering meaningful connections and nurturing a collaborative environment in our evolving tech ecosystem. I believe in the power of human relations and view every interaction as an opportunity for mutual growth.
+
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byarin90" alt="byarin90" /></a> </p>
 
 - self-employed - Landing Pages [💀 Skeleton](https://github.com/byarin90/skeleton-landing-page)
