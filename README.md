@@ -23,7 +23,7 @@ Beyond coding, I value fostering meaningful connections and nurturing a collabor
 
 - 📫 How to reach me **byarin90@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/KkXVOkk8v](https://resume.io/r/KkXVOkk8v)
+- 📄 Know about my experiences [my resume](https://resume.io/r/KkXVOkk8v)
 
 - ⚡ Fun fact **The term "bug" was popularized by a real insect. In 1947, engineers working on the Mark II computer at Harvard University discovered a moth stuck in one of the components. They taped the insect in their logbook and labeled it as the "First actual case of bug being found." Thus, we use the term "bug" to describe software errors.**
 
