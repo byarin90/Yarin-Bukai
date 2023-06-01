@@ -13,7 +13,7 @@ Beyond coding, I value fostering meaningful connections and nurturing a collabor
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byarin90" alt="byarin90" /></a> </p>
 
-- self-employed - Landing Pages [💀 Skeleton]([https://github.com/byarin90/skeleton-landing-page](https://skeleton-landing-page.netlify.app/))
+- self-employed - Landing Pages [💀 Skeleton](https://skeleton-landing-page.netlify.app/)
 
 - 🌱 I’m currently learning **NextJS 13.4**
 
